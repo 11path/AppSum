@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613633664084",
+    "project_id": "appsum2",
+    "storage_bucket": "appsum2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613633664084:android:1a5c1045949a2a174579c1",
+        "android_client_info": {
+          "package_name": "com.example.appsum2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5mkReYqSGELwvClzjXOdGLQbqFFwtbdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
